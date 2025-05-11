@@ -4,14 +4,11 @@ Iniciante na Linguagem de Programação e Banco de Dados, sabe somente os códig
 
 # Linguagens de Programação que estou aprendendo:
 -> Python
-
 -> Dev-C++
 
 # Pretensões de conteúdo que eu quero colocar no futuro:
 Projetos pessoais;
-
 Os programas que eu estou criando;
-
 Meus portifolios e repositórios.
 
 # Onde me achar:
